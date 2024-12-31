@@ -3,6 +3,7 @@
     "message": "<b>Step 1:</b> Click the \"Download\" Button<br><b>Step 2:</b> Download the Tongits Go<br><b>Step 3:</b> Open and Register<br> After registration, you can claim the diamonds via code.",
     "title": "Claim Your Free Diamonds",
     "diamonds": "1,285",
+    "sponsored": "Tongits Go",
     "buttons": [
         {
             "text": "Comment ID",
