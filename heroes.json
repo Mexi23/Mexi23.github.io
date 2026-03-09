@@ -1778,17 +1778,17 @@
     ]
   },
   "128": {
-    "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/kalea_icon.png",
-    "name": "Kalea",
+    "head": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero1291-icon.png/revision/latest?cb\u003d20250402020310",
+    "name": "zetian",
     "heroid": 128,
     "roadsortlabel": [
-      "",
-      "Roam"
+      "Mid Lane",
+      ""
     ],
-    "squarehead": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/kalea_icon.png",
+    "squarehead": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero1291-icon.png/revision/latest?cb\u003d20250402020310",
     "sortlabel": [
-      "Fighter",
-      "Support"
+      "",
+      "Mage"
     ]
   }
 }
