@@ -1,41 +1,41 @@
 {
-  "tag": "v1.1",
-  "version": 1,
-  "title": "Notice!",
-  "body": "JC Tools is currently unavailable for a while.",
-  "positive": {
-    "enabled": true,
-    "exit_after": false,
-    "exit_affinity": false,
-    "dismissable": true,
-    "openable": {
-      "enabled": false,
-      "url": "https://"
+    "tag": "v1.0",
+    "version": 1,
+    "title": "Notice!",
+    "body": "JC Tools is currently unavailable for a while.",
+    "positive": {
+        "enabled": true,
+        "exit_after": true,
+        "exit_affinity": true,
+        "dismissable": false,
+        "openable": {
+            "enabled": false,
+            "url": "https://"
+        },
+        "text": "Exit"
     },
-    "text": "OK"
-  },
-  "negative": {
-    "enabled": false,
-    "exit_after": false,
-    "exit_affinity": false,
-    "dismissable": true,
-    "openable": {
-      "enabled": false,
-      "url": "https://"
+    "negative": {
+        "enabled": false,
+        "exit_after": false,
+        "exit_affinity": false,
+        "dismissable": true,
+        "openable": {
+            "enabled": false,
+            "url": "https://"
+        },
+        "text": ""
     },
-    "text": ""
-  },
-  "neutral": {
-    "enabled": false,
-    "exit_after": false,
-    "exit_affinity": false,
-    "dismissable": true,
-    "openable": {
-      "enabled": false,
-      "url": "https://"
+    "neutral": {
+        "enabled": false,
+        "exit_after": false,
+        "exit_affinity": false,
+        "dismissable": true,
+        "openable": {
+            "enabled": false,
+            "url": "https://"
+        },
+        "text": ""
     },
-    "text": ""
-  },
-  "cancelable": false,
-  "enabled": true
+    "cancelable": false,
+    "enabled": true
 }
