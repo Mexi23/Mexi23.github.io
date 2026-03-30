@@ -4,7 +4,7 @@
     "title": "Notice!",
     "body": "JC Tools is currently unavailable for a while.",
     "positive": {
-        "enabled": true,
+        "enabled": false,
         "exit_after": true,
         "exit_affinity": true,
         "dismissable": false,
