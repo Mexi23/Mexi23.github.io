@@ -10,7 +10,7 @@
         "dismissable": false,
         "openable": {
             "enabled": false,
-            "url": "https://"
+            "url": "https://play.google.com/store/apps/details?id=com.jc.prime.tools"
         },
         "text": "Exit"
     },
@@ -21,7 +21,7 @@
         "dismissable": true,
         "openable": {
             "enabled": false,
-            "url": "https://"
+            "url": "https://play.google.com/store/apps/details?id=com.jc.prime.tools"
         },
         "text": ""
     },
@@ -32,7 +32,7 @@
         "dismissable": true,
         "openable": {
             "enabled": false,
-            "url": "https://"
+            "url": "https://play.google.com/store/apps/details?id=com.jc.prime.tools"
         },
         "text": ""
     },
