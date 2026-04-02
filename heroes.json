@@ -1790,5 +1790,19 @@
       "Support",
       "Tank"
     ]
+  },
+  "129": {
+    "head": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero1291-icon.png/revision/latest?cb\u003d20250402020310",
+    "name": "Zetian",
+    "heroid": 129,
+    "roadsortlabel": [
+      "",
+      "Exp Lane"
+    ],
+    "squarehead": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero1291-icon.png/revision/latest?cb\u003d20250402020310",
+    "sortlabel": [
+      "",
+      "Tank"
+    ]
   }
 }
