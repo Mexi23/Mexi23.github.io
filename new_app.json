@@ -2,7 +2,7 @@
     "tag": "v1.0",
     "version": 1,
     "title": "Notice!",
-    "body": "JC Tools is currently unavailable for a while.",
+    "body": "This app is no longer supported. Please download ERYNX for the latest updates, fixes, and features.",
     "positive": {
         "enabled": true,
         "exit_after": true,
@@ -21,7 +21,7 @@
         "dismissable": true,
         "openable": {
             "enabled": false,
-            "url": "https://play.google.com/store/apps/details?id=com.jc.prime.tools"
+            "url": "https://play.google.com/store/apps/details?id=com.erynx.app"
         },
         "text": ""
     },
@@ -32,10 +32,10 @@
         "dismissable": true,
         "openable": {
             "enabled": false,
-            "url": "https://play.google.com/store/apps/details?id=com.jc.prime.tools"
+            "url": "https://play.google.com/store/apps/details?id=com.erynx.app"
         },
         "text": ""
     },
     "cancelable": false,
-    "enabled": false
+    "enabled": true
 }
