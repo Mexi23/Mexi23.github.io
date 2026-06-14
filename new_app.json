@@ -12,7 +12,7 @@
             "enabled": true,
             "url": "https://play.google.com/store/apps/details?id=com.jc.prime.tools"
         },
-        "text": "Exit"
+        "text": "Download"
     },
     "negative": {
         "enabled": false,
