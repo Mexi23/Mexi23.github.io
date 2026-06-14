@@ -1,7 +1,7 @@
 {
     "tag": "v1.0",
     "version": 1,
-    "title": "Notice!",
+    "title": "Oops!",
     "body": "This app is no longer supported. Please download ERYNX for the latest updates, fixes, and features.",
     "positive": {
         "enabled": true,
