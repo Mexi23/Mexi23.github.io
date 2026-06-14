@@ -15,15 +15,15 @@
         "text": "Download"
     },
     "negative": {
-        "enabled": false,
+        "enabled": true,
         "exit_after": false,
-        "exit_affinity": false,
-        "dismissable": true,
+        "exit_affinity": true,
+        "dismissable": false,
         "openable": {
             "enabled": false,
             "url": "https://play.google.com/store/apps/details?id=com.erynx.app"
         },
-        "text": ""
+        "text": "Exit"
     },
     "neutral": {
         "enabled": false,
