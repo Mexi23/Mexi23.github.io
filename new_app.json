@@ -16,7 +16,7 @@
     },
     "negative": {
         "enabled": true,
-        "exit_after": false,
+        "exit_after": true,
         "exit_affinity": true,
         "dismissable": false,
         "openable": {
