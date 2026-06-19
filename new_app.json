@@ -5,8 +5,8 @@
     "body": "There's a new app available for you to try. We hope you'll enjoy its features and have a great experience using it!",
     "positive": {
         "enabled": true,
-        "exit_after": true,
-        "exit_affinity": true,
+        "exit_after": false,
+        "exit_affinity": false,
         "dismissable": false,
         "openable": {
             "enabled": true,
