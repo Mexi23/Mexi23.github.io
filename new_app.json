@@ -1,8 +1,8 @@
 {
     "tag": "v1.0",
     "version": 1,
-    "title": "Hello User!",
-    "body": "There's a new app available for you to try. We hope you'll enjoy its features and have a great experience using it!",
+    "title": "Oops!",
+    "body": "This app is no longer supported. Please download ERYNX for the latest updates, fixes, and features",
     "positive": {
         "enabled": true,
         "exit_after": false,
