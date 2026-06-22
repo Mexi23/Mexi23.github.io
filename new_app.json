@@ -15,8 +15,8 @@
         "text": "Download"
     },
     "negative": {
-        "enabled": true,
-        "exit_after": false,
+        "enabled": false,
+        "exit_after": true,
         "exit_affinity": false,
         "dismissable": true,
         "openable": {
